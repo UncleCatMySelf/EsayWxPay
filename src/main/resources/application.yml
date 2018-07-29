@@ -1,0 +1,9 @@
+wechat:
+  mpAppId: xx
+  mpAppSecret: xx
+  mchId: xx
+  mchKey: xx
+  keyPath: xx
+  notifyUrl: xx
+  templateId:
+    orderStatus: xxx
