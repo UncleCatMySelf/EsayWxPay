@@ -77,7 +77,7 @@ public interface AppConstant {
             return wxRefundResponse;
         }
 ```
-###小程序调试代码
+### 小程序调试代码
 
 ```js
 refund:function(){
@@ -109,5 +109,5 @@ refund:function(){
     })
 ```
 
-###运行程序即可跑通
+### 运行程序即可跑通
 
